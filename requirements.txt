@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+pydicom
+pillow
+opencv-python
+pylibjpeg>=2.0
+pylibjpeg-libjpeg>=2.
+pytest-shutil
